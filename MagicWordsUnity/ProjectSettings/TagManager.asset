@@ -38,6 +38,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: App Background
+    uniqueID: 3381371093
+    locked: 0
+  - name: BoardBody
+    uniqueID: 2150005871
+    locked: 0
+  - name: BoardEffects
+    uniqueID: 1516930847
+    locked: 0
+  - name: TileSilhouette
+    uniqueID: 236823765
+    locked: 0
+  - name: TileBody
+    uniqueID: 1436196971
+    locked: 0
+  - name: ActiveTileBody
+    uniqueID: 1736056657
+    locked: 0
+  - name: App UI
+    uniqueID: 2921541667
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
